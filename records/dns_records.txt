@@ -1,0 +1,5 @@
+youtube.com 127.0.0.1
+google.com 142.251.220.46 
+apple.com 17.253.144.10
+microsoft.com 13.107.253.68
+iitbhilai.ac.in 192.168.10.115
