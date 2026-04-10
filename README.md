@@ -20,8 +20,16 @@ The client first resolves a domain name using the DNS server over TCP, then uses
 - A working webcam connected to the machine running `video_server.py`
 - All three components run on `localhost` (127.0.0.1) by default
 
-### Install dependencies
+### Setup and Installation
 
+1. **Clone or download the repository:**
+```bash
+git clone https://github.com/Suraj026/socket-programming.git
+cd <directory>
+```
+*(Alternatively, you can download the project as a ZIP file and extract it)*
+
+2. **Install dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
