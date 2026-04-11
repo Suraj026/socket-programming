@@ -190,7 +190,7 @@ python3 iperf/plot_stats.py path/to/custom.csv     # custom file
 
 Generates `throughput_plot.png` — two stacked charts: **Throughput vs Time** and **Average Delay vs Time**.
 
-![plot example](https://img.shields.io/badge/output-throughput__plot.png-steelblue?style=flat-square)
+<img width="1500" height="1050" alt="throughput_plot" src="https://github.com/user-attachments/assets/ecf6e4e9-69bd-4c39-81e0-2ec2d6c9a3fc" />
 
 ---
 
