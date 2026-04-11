@@ -1,0 +1,26 @@
+# Build outputs
+ping/server
+ping/client
+iperf/iperf_client
+traceroute/traceroute
+
+# iperf runtime output
+throughput_stats.csv
+throughput_plot.png
+
+# Object files
+*.o
+*.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / OS
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
